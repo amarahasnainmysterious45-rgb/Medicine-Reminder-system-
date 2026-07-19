@@ -1,5 +1,3 @@
-I recently developed a Smart Medicine Reminder system 💊 to help the users to manage their medication schedules efficiently.
-SOURCE CODE:-
 import time
 import subprocess
 from datetime import datetime
